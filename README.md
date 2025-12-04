@@ -1,7 +1,7 @@
 # Shield Miner ⛏️
 
 **Easy, Cloud-Based, Free Bitcoin and Ethereum and Monero Mining Powered by AI** 🚀
-
+   
 ---
 
 ## Download & Installation 📥
